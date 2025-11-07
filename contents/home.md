@@ -1,9 +1,9 @@
 
 
-[![YuhaoWang](https://img.shields.io/badge/YuhaoWang-github-blue?logo=github)](https://github.com/YuhaoWang)
+[![YuhaoWang](https://img.shields.io/badge/YuhaoW182-github-blue?logo=github)](https://github.com/YuhaoW182)
 
 
-I am currently a final-year undergraduate student and have been admitted via postgraduate recommendation to the College of Computer Science and Software Engineering at Shenzhen University.
+I am currently a final-year undergraduate student and have been admitted via postgraduate recommendation to the College of Computer Science and Software Engineering at Shenzhen University.\
 I am very fortunate to be advised by Professor Qihua Zhou of the PElLab at the College of Computer Science and Software Engineering, Shenzhen University.
 #### Contact
 
