@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![YuhaoWang](https://img.shields.io/badge/YuhaoWang-github-blue?logo=github)](https://github.com/YuhaoWang)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
+I am currently a final-year undergraduate student and have been admitted via postgraduate recommendation to the College of Computer Science and Software Engineering at Shenzhen University.
+I am very fortunate to be advised by Professor Qihua Zhou of the PElLab at the College of Computer Science and Software Engineering, Shenzhen University.
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: codepyjp@gmail.com or 18218278911@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Telecommunication Engineering (Computer Communication Networks), Wuyi University, 2022—2026.\
+M.E., Artificial Intelligence, Shenzhen University, 2026—2029.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Machine learning, edge AI systems, and tiny machine learning.
 
